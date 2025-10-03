@@ -1,6 +1,3 @@
-# FinSage.ai
-finsage-ai-phi.vercel.app
-
 # FinSage.ai (Financial Intelligence)
 
 ## Introduction
